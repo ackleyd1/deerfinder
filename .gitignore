@@ -1,0 +1,5 @@
+venv
+*.tfcache*
+*.JPG
+**/*.DS_Store
+.vscode*
